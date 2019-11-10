@@ -16,7 +16,7 @@ import Imath
 from matplotlib import rcParams
 rcParams['font.family'] = 'serif'
 import matplotlib
-matplotlib.use('agg')
+# matplotlib.use('agg')
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 
